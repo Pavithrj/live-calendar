@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/live-calendar/static/css/main.93943f11.css",
+    "main.js": "/live-calendar/static/js/main.ba7cae0b.js",
+    "static/js/787.5e617e4b.chunk.js": "/live-calendar/static/js/787.5e617e4b.chunk.js",
+    "index.html": "/live-calendar/index.html",
+    "main.93943f11.css.map": "/live-calendar/static/css/main.93943f11.css.map",
+    "main.ba7cae0b.js.map": "/live-calendar/static/js/main.ba7cae0b.js.map",
+    "787.5e617e4b.chunk.js.map": "/live-calendar/static/js/787.5e617e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93943f11.css",
+    "static/js/main.ba7cae0b.js"
+  ]
+}
