@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <div
+      class="month"
+      data-testid="months"
+    >
+      May
+    </div>
+    <div
+      class="day"
+      data-testid="days"
+    >
+      Monday
+    </div>
+    <div
+      class="date"
+      data-testid="dates"
+    >
+      1
+    </div>
+    <div
+      class="year"
+      data-testid="years"
+    >
+      2023
+    </div>
+    <div
+      class="time"
+      data-testid="times"
+    >
+      Current Time: 
+    </div>
+  </div>
+</DocumentFragment>
+`;
