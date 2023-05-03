@@ -32,7 +32,7 @@ function Calender() {
             <div className="day" data-testid="days">{days[date.getDay()]}</div>
             <div className="date" data-testid="dates">{date.getDate()}</div>
             <div className="year" data-testid="years">{date.getFullYear()}</div>
-            <div className="time" data-testid="times">Current Time: {currentTime}</div>
+            <div className="time" data-testid="current-time">Current Time: {currentTime}</div>
         </div>
     )
 }

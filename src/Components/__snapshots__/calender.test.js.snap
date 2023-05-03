@@ -31,7 +31,7 @@ exports[`renders learn react link 1`] = `
     </div>
     <div
       class="time"
-      data-testid="times"
+      data-testid="current-time"
     >
       Current Time: 
     </div>

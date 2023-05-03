@@ -7,6 +7,7 @@ test("renders learn react link", () => {
 });
 
 describe("Calender Component", () => {
+
     it('should show current year', () => {
         render(<Calender />);
         const container = screen.getByTestId('years');
@@ -37,9 +38,9 @@ describe("Calender Component", () => {
 
     it('should show current time', () => {
         render(<Calender />);
-        const container = screen.getByTestId('times');
+        const container = screen.getByTestId('current-time');
         const currentTime = new Date().toLocaleTimeString();
-        // expect(currentTime).toBe(container);
+        expect(currentTime).toBe(container);
     });
 
 })
